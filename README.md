@@ -4,3 +4,5 @@
 * Leap year calculator
 * Rollercoaster bill generator
 * Pizza bill generator
+* Love Calculator
+* Treasure Island game
